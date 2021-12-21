@@ -1,5 +1,5 @@
 # Project_BinarySearchTree
-Author: Jiawei Hao
+Author: Jiawei Hao  
 Project partner: Casper Guo
 
 This project implemented a reduced version of binary search tree and map classes. Within binary search classes, nodes are sorted and linked together for efficient searching.   
